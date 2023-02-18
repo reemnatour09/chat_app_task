@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336331263994",
+    "project_id": "flutterchatapp-dc288",
+    "storage_bucket": "flutterchatapp-dc288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336331263994:android:e2cbd3ca5d452b221a5e43",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336331263994-a3r86nh5k6r0kbnj3kusf02ep9n66nce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AorQlA1MsBv45kB1_rRVlhK-rvM9-5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336331263994-a3r86nh5k6r0kbnj3kusf02ep9n66nce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
