@@ -80,6 +80,7 @@ class _ChatScreenState extends State<ChatScreen> {
               isMe: messages[index]['sender']== user.email);
                }),
                );
+
                    }
 
                 return Text('loading data ..');
